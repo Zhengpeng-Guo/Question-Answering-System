@@ -1,5 +1,7 @@
 # Question-Answering-System
 
+ 检索式的问答系统   
+ 
 数据：SQuAD2.0
 
 整体框架：基于文本相似度的FAQ问答系统，
